@@ -1,17 +1,23 @@
 ﻿int resultat;
-TryParse(Console.ReadLine(), out resultat);
+if (TryParse(Console.ReadLine(), out resultat))
+{
+    Console.WriteLine(resultat);
+}
+else 
+{
+    Console.WriteLine("Skriv in en siffra.");
+}
 
-
-static bool TryParse(string s, out resultat)
+static bool TryParse(string s, out int resultat)
 {
     try
     {
-        int i = int.Parse(s);
+        resultat = int.Parse(s);
     }
     catch (FormatException)
     {   
         resultat = 0;
         return false;
     }
-    
+    return true;
 }

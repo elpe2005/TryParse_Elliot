@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\bin\Debug\net7.0\TryParse_Elliot.exe
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\bin\Debug\net7.0\TryParse_Elliot.deps.json
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\bin\Debug\net7.0\TryParse_Elliot.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\bin\Debug\net7.0\TryParse_Elliot.dll
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\bin\Debug\net7.0\TryParse_Elliot.pdb
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\obj\Debug\net7.0\TryParse_Elliot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\obj\Debug\net7.0\TryParse_Elliot.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\obj\Debug\net7.0\TryParse_Elliot.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\obj\Debug\net7.0\TryParse_Elliot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\obj\Debug\net7.0\TryParse_Elliot.dll
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\obj\Debug\net7.0\refint\TryParse_Elliot.dll
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\obj\Debug\net7.0\TryParse_Elliot.pdb
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\obj\Debug\net7.0\TryParse_Elliot.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\TryParse_Elliot\obj\Debug\net7.0\ref\TryParse_Elliot.dll
